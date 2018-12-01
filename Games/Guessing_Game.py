@@ -18,3 +18,4 @@ while True:
         print(f'Think of a number lesser than {user}')
         user = int(input('Try Again : '))
         c = c + 1
+input('Press any Key to Exit...')
